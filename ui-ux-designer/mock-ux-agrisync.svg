@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="1400" viewBox="0 0 1280 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="1400" fill="#18181B"/>
+  
+  <!-- Figma Frame Bar -->
+  <rect width="1280" height="54" fill="#1E1E1E"/>
+  <circle cx="28" cy="27" r="7" fill="#EF4444"/>
+  <circle cx="50" cy="27" r="7" fill="#F59E0B"/>
+  <circle cx="72" cy="27" r="7" fill="#10B981"/>
+  <rect x="180" y="12" width="600" height="30" rx="15" fill="#2C2C2C"/>
+  <text x="210" y="32" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="500">figma.com/@praveengautam · AgriSync AI — Multi-Persona User Flow</text>
+  
+
+  <g transform="translate(60, 100)">
+    <text x="0" y="40" fill="#A1A1AA" font-size="16" font-weight="600">FIGMA PROTOTYPE · USER FLOW &amp; WIREFRAME ARCHITECTURE</text>
+    <text x="0" y="90" fill="#FFFFFF" font-size="36" font-weight="800">AgriSync AI: Multi-Persona Experience Design</text>
+    <text x="0" y="130" fill="#22C55E" font-size="20">Farmer · Field Worker · Pradhan (Machinery Coordinator)</text>
+  </g>
+
+  <!-- Persona Cards Flow in Figma -->
+  <g transform="translate(60, 280)">
+    <!-- Persona 1: Farmer -->
+    <rect width="360" height="480" rx="20" fill="#27272A" stroke="#22C55E" stroke-width="2"/>
+    <rect x="24" y="24" width="70" height="70" rx="35" fill="#166534"/>
+    <text x="59" y="68" font-size="34" text-anchor="middle">👨‍🌾</text>
+    <text x="110" y="55" fill="#FFFFFF" font-size="22" font-weight="700">Farmer Flow</text>
+    <text x="110" y="80" fill="#86EFAC" font-size="14">Input &amp; Recommendation</text>
+    <text x="24" y="140" fill="#D4D4D8" font-size="14">1. Select Crop &amp; Land Size</text>
+    <text x="24" y="175" fill="#D4D4D8" font-size="14">2. Choose Budget Saver / Fast Track</text>
+    <text x="24" y="210" fill="#D4D4D8" font-size="14">3. Review Machinery Allocation</text>
+    <text x="24" y="245" fill="#D4D4D8" font-size="14">4. Confirm Dispatch Request</text>
+    <rect x="24" y="380" width="312" height="70" rx="12" fill="#18181B"/>
+    <text x="40" y="415" fill="#22C55E" font-size="14" font-weight="600">UX Priority: High Contrast</text>
+    <text x="40" y="435" fill="#A1A1AA" font-size="12">Optimized for sunlight legibility</text>
+
+    <!-- Persona 2: Worker -->
+    <rect x="400" width="360" height="480" rx="20" fill="#27272A" stroke="#3B82F6" stroke-width="2"/>
+    <rect x="424" y="24" width="70" height="70" rx="35" fill="#1E3A8A"/>
+    <text x="459" y="68" font-size="34" text-anchor="middle">👷</text>
+    <text x="510" y="55" fill="#FFFFFF" font-size="22" font-weight="700">Worker Flow</text>
+    <text x="510" y="80" fill="#93C5FD" font-size="14">Availability &amp; Wage Tracker</text>
+    <text x="424" y="140" fill="#D4D4D8" font-size="14">1. Broadcast Daily Availability</text>
+    <text x="424" y="175" fill="#D4D4D8" font-size="14">2. Receive Farm Task Assignment</text>
+    <text x="424" y="210" fill="#D4D4D8" font-size="14">3. Track Guaranteed Day Wage</text>
+    <text x="424" y="245" fill="#D4D4D8" font-size="14">4. One-Tap Attendance Check-In</text>
+    <rect x="424" y="380" width="312" height="70" rx="12" fill="#18181B"/>
+    <text x="440" y="415" fill="#3B82F6" font-size="14" font-weight="600">UX Priority: Icon-First</text>
+    <text x="440" y="435" fill="#A1A1AA" font-size="12">Minimal reading needed</text>
+
+    <!-- Persona 3: Pradhan / Lead -->
+    <rect x="800" width="360" height="480" rx="20" fill="#27272A" stroke="#F59E0B" stroke-width="2"/>
+    <rect x="824" y="24" width="70" height="70" rx="35" fill="#78350F"/>
+    <text x="859" y="68" font-size="34" text-anchor="middle">👑</text>
+    <text x="910" y="55" fill="#FFFFFF" font-size="22" font-weight="700">Pradhan Flow</text>
+    <text x="910" y="80" fill="#FDE68A" font-size="14">Resource Coordination</text>
+    <text x="824" y="140" fill="#D4D4D8" font-size="14">1. Monitor Village Machinery Pool</text>
+    <text x="824" y="175" fill="#D4D4D8" font-size="14">2. Assign Worker Squads to Fields</text>
+    <text x="824" y="210" fill="#D4D4D8" font-size="14">3. Handle Conflict &amp; Schedule Delays</text>
+    <text x="824" y="245" fill="#D4D4D8" font-size="14">4. Reconcile Wage Accounts</text>
+    <rect x="824" y="380" width="312" height="70" rx="12" fill="#18181B"/>
+    <text x="840" y="415" fill="#F59E0B" font-size="14" font-weight="600">UX Priority: Overview Matrix</text>
+    <text x="840" y="435" fill="#A1A1AA" font-size="12">Multi-schedule calendar dashboard</text>
+  </g>
+
+  <!-- Voice Assistance Interaction Flow -->
+  <g transform="translate(60, 820)">
+    <rect width="1160" height="380" rx="24" fill="#27272A" stroke="#3F3F46" stroke-width="1"/>
+    <text x="48" y="56" fill="#FFFFFF" font-size="24" font-weight="700">🎙️ Voice-First Interaction Prototype Wireframe</text>
+    <text x="48" y="90" fill="#A1A1AA" font-size="15">Empowering rural farmers who prefer speaking in vernacular languages over manual form filling.</text>
+
+    <!-- Conversational Wireframe Bubble -->
+    <rect x="48" y="130" width="600" height="80" rx="18" fill="#18181B" stroke="#22C55E" stroke-width="1"/>
+    <text x="78" y="176" fill="#86EFAC" font-size="18">"Mere 4 bigha khet ke liye gehun buwai ka plan banao"</text>
+
+    <rect x="48" y="230" width="700" height="100" rx="18" fill="#166534"/>
+    <text x="78" y="270" fill="#FFFFFF" font-size="18" font-weight="600">AgriSync Assistant Response:</text>
+    <text x="78" y="300" fill="#DCFCE7" font-size="15">"Plan ready: 14 Mazdoor, 1 Tractor, Estimated Budget ₹24,800. Fast Track mode selected."</text>
+  </g>
+</svg>

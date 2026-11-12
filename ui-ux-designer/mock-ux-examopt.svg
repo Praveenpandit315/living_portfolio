@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="1400" viewBox="0 0 1280 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="1400" fill="#100C1F"/>
+  
+  <!-- Figma Frame Bar -->
+  <rect width="1280" height="54" fill="#1E1E1E"/>
+  <circle cx="28" cy="27" r="7" fill="#EF4444"/>
+  <circle cx="50" cy="27" r="7" fill="#F59E0B"/>
+  <circle cx="72" cy="27" r="7" fill="#10B981"/>
+  <rect x="180" y="12" width="600" height="30" rx="15" fill="#2C2C2C"/>
+  <text x="210" y="32" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="500">figma.com/@praveengautam · ExamOpt AI — Conflict-Free Examination UX</text>
+  
+
+  <g transform="translate(60, 100)">
+    <text x="0" y="40" fill="#A855F7" font-size="16" font-weight="600">FIGMA PROTOTYPE · INTERFACE &amp; CONFLICT MAPPING</text>
+    <text x="0" y="90" fill="#FFFFFF" font-size="36" font-weight="800">ExamOpt AI: Timetable Optimization UX</text>
+    <text x="0" y="130" fill="#C084FC" font-size="20">Visual Conflict Detection · Seating Heatmaps · Room Capacity UX</text>
+  </g>
+
+  <!-- Conflict Solver Visual Wireframe -->
+  <g transform="translate(60, 280)">
+    <rect width="1160" height="480" rx="24" fill="#1A1433" stroke="#2B1F52" stroke-width="1"/>
+    <text x="40" y="50" fill="#FFFFFF" font-size="22" font-weight="700">Real-Time Schedule Clash Detection Dashboard</text>
+
+    <!-- Grid Wireframe -->
+    <rect x="40" y="80" width="1080" height="50" rx="8" fill="#251B47"/>
+    <text x="60" y="112" fill="#E9D5FF" font-size="14" font-weight="600">EXAMINATION SLOT</text>
+    <text x="320" y="112" fill="#E9D5FF" font-size="14" font-weight="600">ENROLLED STUDENT BATCHES</text>
+    <text x="680" y="112" fill="#E9D5FF" font-size="14" font-weight="600">VENUE ALLOCATION</text>
+    <text x="940" y="112" fill="#E9D5FF" font-size="14" font-weight="600">STATUS</text>
+
+    <rect x="40" y="145" width="1080" height="70" rx="8" fill="#17112E"/>
+    <text x="60" y="188" fill="#FFFFFF" font-size="15">Morning: 09:30 - 12:30</text>
+    <text x="320" y="188" fill="#DDD6FE" font-size="15">BCA 2nd Sem · Data Structures</text>
+    <text x="680" y="188" fill="#A855F7" font-size="15">Academic Block 3 (Rooms 101-106)</text>
+    <text x="940" y="188" fill="#4ADE80" font-size="15" font-weight="700">✓ Conflict-Free</text>
+
+    <rect x="40" y="230" width="1080" height="70" rx="8" fill="#17112E"/>
+    <text x="60" y="273" fill="#FFFFFF" font-size="15">Afternoon: 01:30 - 04:30</text>
+    <text x="320" y="273" fill="#DDD6FE" font-size="15">BCA 4th Sem · Database Systems</text>
+    <text x="680" y="273" fill="#A855F7" font-size="15">Main Auditorium &amp; Lab 2</text>
+    <text x="940" y="273" fill="#4ADE80" font-size="15" font-weight="700">✓ Conflict-Free</text>
+  </g>
+</svg>

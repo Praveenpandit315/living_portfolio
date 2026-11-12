@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="1400" viewBox="0 0 1280 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="1400" fill="#0B0F19"/>
+  
+  <!-- Figma Frame Bar -->
+  <rect width="1280" height="54" fill="#1E1E1E"/>
+  <circle cx="28" cy="27" r="7" fill="#EF4444"/>
+  <circle cx="50" cy="27" r="7" fill="#F59E0B"/>
+  <circle cx="72" cy="27" r="7" fill="#10B981"/>
+  <rect x="180" y="12" width="600" height="30" rx="15" fill="#2C2C2C"/>
+  <text x="210" y="32" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="500">figma.com/@praveengautam · PortGenZ — Dark Minimal UI Kit</text>
+  
+
+  <g transform="translate(60, 100)">
+    <text x="0" y="40" fill="#64748B" font-size="16" font-weight="600">FIGMA DESIGN SYSTEM · COMPONENT LIBRARY</text>
+    <text x="0" y="90" fill="#FFFFFF" font-size="36" font-weight="800">PortGenZ: Developer Portfolio UI System</text>
+    <text x="0" y="130" fill="#38BDF8" font-size="20">Glassmorphism · Monospace Accents · Strict 4px Grid</text>
+  </g>
+
+  <!-- Component Showcase -->
+  <g transform="translate(60, 280)">
+    <!-- Buttons & Badges -->
+    <rect width="560" height="420" rx="20" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+    <text x="40" y="50" fill="#FFFFFF" font-size="22" font-weight="700">Interactive Action Tokens</text>
+    
+    <rect x="40" y="80" width="220" height="54" rx="27" fill="#2563EB"/>
+    <text x="150" y="113" fill="#FFFFFF" font-size="16" font-weight="600" text-anchor="middle">Primary Action →</text>
+
+    <rect x="280" y="80" width="220" height="54" rx="27" fill="transparent" stroke="#38BDF8" stroke-width="2"/>
+    <text x="390" y="113" fill="#38BDF8" font-size="16" font-weight="600" text-anchor="middle">Secondary Outline</text>
+
+    <!-- Glass Cards Mockup -->
+    <rect x="40" y="160" width="480" height="220" rx="16" fill="#1F2937" fill-opacity="0.6" stroke="#374151" stroke-width="1"/>
+    <text x="70" y="200" fill="#38BDF8" font-size="14" font-weight="600">GLASSMORPHIC CARD COMPONENT</text>
+    <text x="70" y="235" fill="#FFFFFF" font-size="20" font-weight="700">Interactive Hover Lift State</text>
+    <text x="70" y="270" fill="#9CA3AF" font-size="14">Subtle backdrop-filter: blur(16px), 1px white border at 8% opacity.</text>
+  </g>
+
+  <!-- Color Palette & Typography -->
+  <g transform="translate(660, 280)">
+    <rect width="560" height="420" rx="20" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+    <text x="40" y="50" fill="#FFFFFF" font-size="22" font-weight="700">Design Tokens &amp; Harmony</text>
+
+    <!-- Palette Swatches -->
+    <rect x="40" y="80" width="90" height="90" rx="16" fill="#020617"/>
+    <text x="85" y="190" fill="#94A3B8" font-size="12" text-anchor="middle">Canvas #020617</text>
+
+    <rect x="150" y="80" width="90" height="90" rx="16" fill="#1E293B"/>
+    <text x="195" y="190" fill="#94A3B8" font-size="12" text-anchor="middle">Surface #1E293B</text>
+
+    <rect x="260" y="80" width="90" height="90" rx="16" fill="#2563EB"/>
+    <text x="305" y="190" fill="#94A3B8" font-size="12" text-anchor="middle">Accent #2563EB</text>
+
+    <rect x="370" y="80" width="90" height="90" rx="16" fill="#38BDF8"/>
+    <text x="415" y="190" fill="#94A3B8" font-size="12" text-anchor="middle">Glow #38BDF8</text>
+
+    <!-- Typography Specs -->
+    <text x="40" y="260" fill="#94A3B8" font-size="14">Display: Inter / SF Pro · Bold 800</text>
+    <text x="40" y="300" fill="#94A3B8" font-size="14">Body: Clean Modern Sans · Regular 400 (1.6 line height)</text>
+    <text x="40" y="340" fill="#94A3B8" font-size="14">Code: JetBrains Mono · 13px tag badges</text>
+  </g>
+</svg>
