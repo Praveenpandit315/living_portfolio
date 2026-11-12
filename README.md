@@ -6,7 +6,7 @@
 
   **Next-Generation Interactive Personal Portfolio, 3D Discipline Showcase & Executive ATS Resume**
 
-  [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-GAUTAM--Portgenz--.netlify.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)]((https://gautam-portgenz.netlify.app/))
+  [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-portfolio--murex--one--95.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://gautam-portgenz.netlify.app/)
   [![GitHub Profile](https://img.shields.io/badge/GitHub-Praveenpandit315-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenpandit315)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen--gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-gautam-1a065830b/)
   [![Contact Email](https://img.shields.io/badge/Email-PraveenGautam433603%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PraveenGautam433603@gmail.com)
